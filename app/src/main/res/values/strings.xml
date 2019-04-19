@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unila_Access</string>
+
+    <string name="webview">http://tablighstudio.blogspot.com/2018/10/how-to-add-button-buttons-on-android.html</string>
+
+    <string name="simanila">http://simanila.unila.ac.id/</string>
+
+    <string name="siakad">https://siakad.unila.ac.id/</string>
+
+    <string name="vclass">http://vclass.unila.ac.id/</string>
+
+    <string name="kkn">https://kkn.unila.ac.id/</string>
+
+    <string name="sso">https://captiveportal-login.unila.ac.id/cgi-bin/login?cmd=popup/</string>
+
+    <string name="unila">https://unila.ac.id/</string>
+</resources>
